@@ -1,4 +1,4 @@
-# CS274A Natural Language Processing [Season] [Year] Project
+# CS274A Natural Language Processing Spring 2024 Project
 
 <div align="center">
 <img width="450" src="https://github.com/why-in-Shanghaitech/pj-farnn/assets/43395692/86981d69-6e01-4333-99ca-70084d307aed" />
@@ -134,7 +134,7 @@ In this project, you may only use a subset of the regular expression grammar (we
 
 Implement the function `multiple_of_n` in `regexps.py`. The function has two arguments: `n` and `special_char`. The generated regular expression should accept all the multipliers of `n` including 0 and reject other numbers. `special_char` is to suit the tokenization: Remember in the previous question that when a number is tokenized, the tokenizer may add a special character `Ġ` in front of the first token, depending on where the number appears in the sentence. `special_char` tells you whether `Ġ` will exist. That is, if the number to match is `12` and `special_char` is `False`, then the input sequence is `['1', '2']`. If `special_char` is True, then the input sequence is `['Ġ1', '2']`. The number to match is always non-negative.
 
-You do not need to worry about leading zeros, but empty strings should be rejected. In this question, we guarantee that `2<=n<=7`.
+You do not need to worry about leading zeros, but empty strings should be rejected. In this question, we guarantee that `2<=n<=6`.
 
 To run the example:
 
@@ -155,20 +155,18 @@ Grading: You need to handle `n` and `special_char` properly to receive points. D
 | 2, 5    | False          | +1        |
 | 3       | False          | +1        |
 | 2, 3, 5 | True           | +1        |
-| 4, 6, 7 | False, True    | +1        |
+| 4, 6    | False, True    | +1        |
 
 These tests do not depend on each other. That is, you may solve `n=3`, `special_char=False` and receive one point without implementing `n=5`.
 
 We will also calculate the length of your regular expressions. The shorter, the better. If the output is too long, you will fail immediately without receiving any points. Depending on the total length of all possible regular expressions, you will be graded:
 
-| **Total length of regular expressions** | **Grade**  |
-| --------------------------------------- | ---------- |
-| > 1,000,000                             | FAIL       |
-| 250,000 - 1,000,000                     | 0          |
-| 67,000 - 250,000                        | +1 (bouns) |
-| <= 67,000                               | +2 (bouns) |
+| **Total length of regular expressions** | **Grade** |
+| --------------------------------------- | --------- |
+| > 40,000                                | FAIL      |
+| <= 40,000                               | +0        |
 
-You may only receive bouns points when you passed all the previous testcases.
+That is, you may only receive the points if the total length of all possible regular expressions is less than 40,000. This is easy to achieve if you carefully deal with the brackets. Our reference implementation has a total length of 1,209.
 
 *HINT: This question is intended to let you get familiar with regex and finite automata. [Here](https://math.stackexchange.com/questions/140283/why-does-this-fsm-accept-binary-numbers-divisible-by-three) is a related question. Remember our numbers are decimal, not binary.*
 
@@ -204,7 +202,7 @@ python autograder.py -q q3
 
 All the things we have done are the preparation of training a powerful model. And this time, we will be training a simple arithmetic QA system. The system should be able to answer yes-no questions about divisible numbers (actually, a binary classifier). The dataset is provided in `data/train.json`. Train a FARNN to make the correct prediction.
 
-We intend to give you full freedom to solve this problem, as long as you achieve an accuracy of 97% within 5 minutes. You may
+We intend to give you full freedom to solve this problem, as long as you achieve an accuracy of 92% within 5 minutes. You may
 1. write complex regular expressions to directly initialize the network, without any training. This requires extra effort in regular expression writing. In addition, building the m-DFA and doing tensor decomposition may exceed the time limit.
 2. train a FARNN from scratch with random initialization. However, arithmetic problems are known to be difficult for neural models. It might be hard to converge within the time limit.
 3. write simple regular expressions, then train the network properly. This is the most promising solution. Initializing a FARNN with simple regular expressions only requires a little time, but it may boost the process of training.
@@ -232,7 +230,7 @@ To run the autograder for this question:
 python autograder.py -q q4
 ```
 
-To pass this test, you are required to reach an accuracy of 97% within 5 minutes.
+To pass this test, you are required to reach an accuracy of 92% within 5 minutes.
 
 *NOTE: Please do not try to hack the tests since we will use a different IID dataset when you submit the project.*
 

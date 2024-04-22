@@ -7,7 +7,5 @@ testset: """
 1: 01-two-five,07-length-easy
 1: 03-three,07-length-easy
 1: 02-two-five-special,04-three-special,07-length-easy
-1: 05-all-to-seven,06-all-to-seven-special,07-length-easy
-1: 01-two-five,02-two-five-special,03-three,04-three-special,05-all-to-seven,06-all-to-seven-special,07-length-easy,08-length-medium
-1: 01-two-five,02-two-five-special,03-three,04-three-special,05-all-to-seven,06-all-to-seven-special,07-length-easy,08-length-medium,09-length-hard
+1: 05-all-to-six,06-all-to-six-special,07-length-easy
 """

@@ -1,8 +1,8 @@
 class: "RegexTest"
 success: "Test passed!"
 failure: "The regex should accept multiples of n and reject other numbers."
-timeout: "60"
+timeout: "120"
 
 # The range of n
-ns: "[4, 6, 7]"
-special: "True"
+ns: "[4, 6]"
+special: "False"

@@ -412,7 +412,7 @@ class RegexLengthTest(testClasses.TestCase):
         multiple_of_n = bindings["regexps"].multiple_of_n
         threshold = eval(self.threshold, bindings)
 
-        length = sum(len(multiple_of_n(n, spec)) for n in range(2, 8) for spec in (True, False))
+        length = sum(len(multiple_of_n(n, spec)) for n in range(2, 7) for spec in (True, False))
 
         if length <= threshold:
             grades.addMessage('PASS: %s' % self.path)

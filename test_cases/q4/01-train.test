@@ -1,9 +1,9 @@
 class: "TrainerTest"
 success: "Test passed!"
-failure: "To pass this test, you are required to reach an accuracy of 97% at the end of training."
+failure: "To pass this test, you are required to reach an accuracy of 92% at the end of training."
 timeout: "300"
 
 
 train_path: "'data/train.json'"
 test_path: "'data/test.json'"
-threshold: "0.97"
+threshold: "0.92"
