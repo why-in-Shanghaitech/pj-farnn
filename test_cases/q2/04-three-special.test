@@ -1,0 +1,8 @@
+class: "RegexTest"
+success: "Test passed!"
+failure: "The regex should accept multiples of n and reject other numbers."
+timeout: "5"
+
+# The range of n
+ns: "[3]"
+special: "True"

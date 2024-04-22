@@ -1,0 +1,6 @@
+tokenizers==0.13.3
+numpy==1.24.3
+torch==2.0.0
+tensorly
+packaging
+pytz

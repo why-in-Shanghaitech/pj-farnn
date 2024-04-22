@@ -1,0 +1,1357 @@
+[
+    {
+        "idx": 2729,
+        "question": "Does there exist an integer t such that 44951169222 divided by 3 is t?",
+        "truth": true
+    },
+    {
+        "idx": 2730,
+        "question": "Do you think it is correct that \"The number 4990 is a multiple of 2.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2731,
+        "question": "Do you think it is correct that \"The number 49960 is divisible by 4.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2732,
+        "question": "Is the following statement correct? \"The number 2 is a divisor of 525133.\"",
+        "truth": false
+    },
+    {
+        "idx": 2733,
+        "question": "Do you think the following statement is correct? \"The number 88635299 has 4 as a divisor.\"",
+        "truth": false
+    },
+    {
+        "idx": 2734,
+        "question": "The number 878 does not have 3 as a divisor. Do you think this statement is correct?",
+        "truth": true
+    },
+    {
+        "idx": 2735,
+        "question": "Do you think the following statement is true? \"The number 28714467957 has 5 as a divisor.\"",
+        "truth": false
+    },
+    {
+        "idx": 2736,
+        "question": "Do you think it is correct that \"The number 6370 is a multiple of 5.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2737,
+        "question": "The number 9757245 does not have 5 as a factor. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2738,
+        "question": "Do you think the following statement is true? \"The number 97843179235 has 5 as a divisor.\"",
+        "truth": true
+    },
+    {
+        "idx": 2739,
+        "question": "Is the following statement true? \"The number 967757133840 has 6 as a factor.\"",
+        "truth": true
+    },
+    {
+        "idx": 2740,
+        "question": "Is it correct that \"The number 28841428882 is a multiple of 2.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2741,
+        "question": "Is the following statement true? \"The number 1 is divisible by 2.\"",
+        "truth": false
+    },
+    {
+        "idx": 2742,
+        "question": "Do you think the following statement is true? \"If we divide 118526658948 by 6, the remainder is non-zero.\"",
+        "truth": false
+    },
+    {
+        "idx": 2743,
+        "question": "There exists an integer k such that 88 divided by 2 is k. Do you think this statement is true?",
+        "truth": true
+    },
+    {
+        "idx": 2744,
+        "question": "Do you think it is true that \"The number 2636936116 has 6 as a divisor.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2745,
+        "question": "The number 4 is a factor of 127749116. Is this statement correct?",
+        "truth": true
+    },
+    {
+        "idx": 2746,
+        "question": "Is it correct that \"The number 6 is not a divisor of 586546.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2747,
+        "question": "Is it correct that \"There exists an integer k such that 7646963 divided by 2 is k.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2748,
+        "question": "Does there exist an integer k such that 2 times k is 4395?",
+        "truth": false
+    },
+    {
+        "idx": 2749,
+        "question": "If we divide 5916243 by 6, the remainder is non-zero. Is this statement true?",
+        "truth": true
+    },
+    {
+        "idx": 2750,
+        "question": "Is it true that \"The number 125 does not have 5 as a factor.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2751,
+        "question": "Do you think it is true that \"The number 76262265182 is not a multiple of 6.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2752,
+        "question": "There does not exist an integer k such that 16594165 divided by 2 is k. Do you think this statement is true?",
+        "truth": true
+    },
+    {
+        "idx": 2753,
+        "question": "Is it correct that \"For any integer k, 6 times k is not equal to 304604384.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2754,
+        "question": "If we divide 4030596052 by 2, is the remainder not 0?",
+        "truth": false
+    },
+    {
+        "idx": 2755,
+        "question": "Is the number 5 not a multiple of 5?",
+        "truth": false
+    },
+    {
+        "idx": 2756,
+        "question": "Do you think the following statement is true? \"There exists an integer k such that 3001 divided by 5 is k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2757,
+        "question": "Does there not exist an integer t such that 40152360032 = 3 * t?",
+        "truth": true
+    },
+    {
+        "idx": 2758,
+        "question": "Is the following statement correct? \"There exists an integer k such that 154887559 = 5 * k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2759,
+        "question": "Is the following statement true? \"For any integer k, 618514851 is not equal to 3 * k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2760,
+        "question": "Do you think the following statement is correct? \"If we divide 92041723 by 6, the remainder is not 0.\"",
+        "truth": true
+    },
+    {
+        "idx": 2761,
+        "question": "Do you think it is true that \"The number 9024 is not a multiple of 6.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2762,
+        "question": "Do you think it is correct that \"If we divide 132 by 3, the remainder is not 0.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2763,
+        "question": "There exists an integer k such that 5 times k is 9. Is this statement true?",
+        "truth": false
+    },
+    {
+        "idx": 2764,
+        "question": "The number 68500068 is a multiple of 4. Is this statement true?",
+        "truth": true
+    },
+    {
+        "idx": 2765,
+        "question": "Is the number 63615791 not divisible by 2?",
+        "truth": true
+    },
+    {
+        "idx": 2766,
+        "question": "Does there exist an integer k such that 17678 = 3 * k?",
+        "truth": false
+    },
+    {
+        "idx": 2767,
+        "question": "Is 6 a factor of 2463654?",
+        "truth": true
+    },
+    {
+        "idx": 2768,
+        "question": "Is it true that \"The number 2493955 has 2 as a factor.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2769,
+        "question": "Do you think the following statement is true? \"The number 2 is not a factor of 3928334705.\"",
+        "truth": true
+    },
+    {
+        "idx": 2770,
+        "question": "Is 3 a divisor of 192881050040?",
+        "truth": false
+    },
+    {
+        "idx": 2771,
+        "question": "The number 57623149 is not divisible by 4. Do you think this statement is correct?",
+        "truth": true
+    },
+    {
+        "idx": 2772,
+        "question": "There does not exist an integer k such that 457648863588 divided by 3 is k. Is this statement true?",
+        "truth": false
+    },
+    {
+        "idx": 2773,
+        "question": "Do you think the following statement is true? \"There exists an integer k such that 5 times k is 66418156155.\"",
+        "truth": true
+    },
+    {
+        "idx": 2774,
+        "question": "Does the number 1418461674 not have 6 as a factor?",
+        "truth": false
+    },
+    {
+        "idx": 2775,
+        "question": "Does there not exist an integer k such that 63313288993 divided by 2 is k?",
+        "truth": true
+    },
+    {
+        "idx": 2776,
+        "question": "The number 3 does not have 4 as a factor. Is this statement true?",
+        "truth": true
+    },
+    {
+        "idx": 2777,
+        "question": "Do you think the following statement is true? \"If we divide 883535 by 2, the remainder is non-zero.\"",
+        "truth": true
+    },
+    {
+        "idx": 2778,
+        "question": "Do you think the following statement is correct? \"For any integer k, 48703 divided by 4 is not equal to k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2779,
+        "question": "Is it true that \"The number 6 is a factor of 634.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2780,
+        "question": "Is the following statement correct? \"For any integer k, 6 times k is not equal to 3.\"",
+        "truth": true
+    },
+    {
+        "idx": 2781,
+        "question": "Do you think it is correct that \"There does not exist an integer k such that 35960 = 2 * k.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2782,
+        "question": "Does the number 18024602 not have 2 as a divisor?",
+        "truth": false
+    },
+    {
+        "idx": 2783,
+        "question": "Do you think it is true that \"The number 4 is a divisor of 2.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2784,
+        "question": "The number 71226 is not divisible by 2. Is this statement correct?",
+        "truth": false
+    },
+    {
+        "idx": 2785,
+        "question": "Do you think the following statement is true? \"There exists an integer k such that 2 times k is 65619719.\"",
+        "truth": false
+    },
+    {
+        "idx": 2786,
+        "question": "Is 60097881 a result of multiplying 3 by an integer?",
+        "truth": true
+    },
+    {
+        "idx": 2787,
+        "question": "Do you think it is correct that \"There does not exist an integer k such that 6 times k is 16336966.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2788,
+        "question": "Do you think the following statement is correct? \"There exists an integer k such that 329466126 divided by 3 is k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2789,
+        "question": "Do you think the following statement is true? \"There exists an integer k such that 590260567 = 5 * k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2790,
+        "question": "Do you think the following statement is correct? \"For any integer k, 6945 is not equal to 2 * k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2791,
+        "question": "Do you think the following statement is correct? \"The number 2 is a factor of 6469602473.\"",
+        "truth": false
+    },
+    {
+        "idx": 2792,
+        "question": "There exists an integer k such that 2 times k is 2980. Is this statement correct?",
+        "truth": true
+    },
+    {
+        "idx": 2793,
+        "question": "Is 4 a divisor of 4?",
+        "truth": true
+    },
+    {
+        "idx": 2794,
+        "question": "Do you think it is true that \"The number 154470 is not divisible by 6.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2795,
+        "question": "There does not exist an integer k such that 3 times k is 93824565. Is this statement correct?",
+        "truth": false
+    },
+    {
+        "idx": 2796,
+        "question": "The number 313500 is a multiple of 5. Do you think this statement is true?",
+        "truth": true
+    },
+    {
+        "idx": 2797,
+        "question": "The number 6 is a factor of 8558130746. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2798,
+        "question": "Is it correct that \"The number 278 is not a multiple of 2.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2799,
+        "question": "Is the following statement correct? \"For any integer k, 7782880 is not equal to 6 * k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2800,
+        "question": "Does the number 58 not have 6 as a divisor?",
+        "truth": true
+    },
+    {
+        "idx": 2801,
+        "question": "Do you think the following statement is correct? \"There does not exist an integer k such that 2462 divided by 2 is k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2802,
+        "question": "Is the following statement correct? \"The number 697782 does not have 6 as a factor.\"",
+        "truth": false
+    },
+    {
+        "idx": 2803,
+        "question": "Is it true that \"The number 962816152 is not a multiple of 4.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2804,
+        "question": "Is the number 7 not divisible by 4?",
+        "truth": true
+    },
+    {
+        "idx": 2805,
+        "question": "Does there not exist an integer k such that 2 times k is 791162422?",
+        "truth": false
+    },
+    {
+        "idx": 2806,
+        "question": "Is the number 9225266715 a multiple of 5?",
+        "truth": true
+    },
+    {
+        "idx": 2807,
+        "question": "The number 253494789694 has 3 as a factor. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2808,
+        "question": "Is 4 not a divisor of 337485356?",
+        "truth": false
+    },
+    {
+        "idx": 2809,
+        "question": "Is 5 a factor of 16991704410?",
+        "truth": true
+    },
+    {
+        "idx": 2810,
+        "question": "Is it true that \"There does not exist an integer k such that 97945406642 divided by 4 is k.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2811,
+        "question": "Do you think it is correct that \"The number 6 is a divisor of 122304.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2812,
+        "question": "Is the number 3 a divisor of 1807866?",
+        "truth": true
+    },
+    {
+        "idx": 2813,
+        "question": "Is it true that \"For any integer k, 2 divided by 5 is not equal to k.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2814,
+        "question": "Do you think the following statement is correct? \"The number 6 is a divisor of 768696.\"",
+        "truth": true
+    },
+    {
+        "idx": 2815,
+        "question": "Do you think the following statement is correct? \"There does not exist an integer k such that 113 divided by 4 is k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2816,
+        "question": "Is it true that \"The number 5 does not have 6 as a factor.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2817,
+        "question": "Does the number 30095375 not have 4 as a divisor?",
+        "truth": true
+    },
+    {
+        "idx": 2818,
+        "question": "Is 6 not a factor of 1512?",
+        "truth": false
+    },
+    {
+        "idx": 2819,
+        "question": "For any integer k, 2 times k is not equal to 34624186. Do you think this statement is correct?",
+        "truth": false
+    },
+    {
+        "idx": 2820,
+        "question": "Is the number 423004 divisible by 4?",
+        "truth": true
+    },
+    {
+        "idx": 2821,
+        "question": "Does the number 764874 not have 2 as a divisor?",
+        "truth": false
+    },
+    {
+        "idx": 2822,
+        "question": "The number 3 is a divisor of 6. Do you think this statement is correct?",
+        "truth": true
+    },
+    {
+        "idx": 2823,
+        "question": "Is the following statement correct? \"The number 6 is not a divisor of 7290234.\"",
+        "truth": false
+    },
+    {
+        "idx": 2824,
+        "question": "Do you think it is true that \"For any integer k, 623918770 is not equal to 5 * k.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2825,
+        "question": "Is the following statement true? \"The number 17 does not have 2 as a divisor.\"",
+        "truth": true
+    },
+    {
+        "idx": 2826,
+        "question": "Is 5 not a divisor of 328?",
+        "truth": true
+    },
+    {
+        "idx": 2827,
+        "question": "Is the following statement correct? \"There does not exist an integer k such that 3 times k is 9879795.\"",
+        "truth": false
+    },
+    {
+        "idx": 2828,
+        "question": "Is 279732 not a multiple of 4?",
+        "truth": false
+    },
+    {
+        "idx": 2829,
+        "question": "Does there not exist an integer t such that 91963 = 2 * t?",
+        "truth": true
+    },
+    {
+        "idx": 2830,
+        "question": "Is the number 24956916 not divisible by 4?",
+        "truth": false
+    },
+    {
+        "idx": 2831,
+        "question": "Is the number 5 a divisor of 3?",
+        "truth": false
+    },
+    {
+        "idx": 2832,
+        "question": "Does there not exist an integer k such that 56 = 4 * k?",
+        "truth": false
+    },
+    {
+        "idx": 2833,
+        "question": "If we divide 520 by 4, the remainder is non-zero. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2834,
+        "question": "The number 683612632314 is a multiple of 5. Is this statement correct?",
+        "truth": false
+    },
+    {
+        "idx": 2835,
+        "question": "Is 6 a factor of 70950?",
+        "truth": true
+    },
+    {
+        "idx": 2836,
+        "question": "Is 676 a result of multiplying 4 by an integer?",
+        "truth": true
+    },
+    {
+        "idx": 2837,
+        "question": "There exists an integer k such that 993056912432 divided by 6 is k. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2838,
+        "question": "If we divide 24840837 by 3, is the remainder not 0?",
+        "truth": false
+    },
+    {
+        "idx": 2839,
+        "question": "The number 95143 does not have 4 as a factor. Is this statement true?",
+        "truth": true
+    },
+    {
+        "idx": 2840,
+        "question": "Can 3 be multiplied to obtain 527547592797?",
+        "truth": true
+    },
+    {
+        "idx": 2841,
+        "question": "Is it correct that \"If we divide 1756240 by 5, the remainder is 0.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2842,
+        "question": "Do you think it is correct that \"For any integer k, 2 times k is not equal to 8527.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2843,
+        "question": "The number 1463315582 has 4 as a divisor. Is this statement correct?",
+        "truth": false
+    },
+    {
+        "idx": 2844,
+        "question": "Do you think it is correct that \"For any integer k, 6 times k is not equal to 7800.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2845,
+        "question": "Is the following statement true? \"The number 2 is a divisor of 982172433197.\"",
+        "truth": false
+    },
+    {
+        "idx": 2846,
+        "question": "Does the number 891252503 have 2 as a divisor?",
+        "truth": false
+    },
+    {
+        "idx": 2847,
+        "question": "Do you think it is correct that \"The number 5 is a divisor of 253057591648.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2848,
+        "question": "The number 9 has 4 as a divisor. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2849,
+        "question": "If we divide 40 by 5, the remainder is not 0. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2850,
+        "question": "Is the following statement true? \"For any integer k, 1478472449 is not equal to 5 * k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2851,
+        "question": "Is the number 3 not a factor of 48?",
+        "truth": false
+    },
+    {
+        "idx": 2852,
+        "question": "Can 3 be multiplied to obtain 47?",
+        "truth": false
+    },
+    {
+        "idx": 2853,
+        "question": "Is the following statement correct? \"There does not exist an integer k such that 594052264784 divided by 6 is k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2854,
+        "question": "Is the following statement true? \"There does not exist an integer k such that 297415770 divided by 5 is k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2855,
+        "question": "Does there exist an integer k such that 51077178132 = 4 * k?",
+        "truth": true
+    },
+    {
+        "idx": 2856,
+        "question": "Is it true that \"There exists an integer k such that 3248532 divided by 3 is k.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2857,
+        "question": "Is it true that \"The number 532815 does not have 4 as a divisor.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2858,
+        "question": "Does there exist an integer k such that 3 times k is 15?",
+        "truth": true
+    },
+    {
+        "idx": 2859,
+        "question": "Is the number 345057112 not divisible by 5?",
+        "truth": true
+    },
+    {
+        "idx": 2860,
+        "question": "Do you think the following statement is correct? \"The number 24359655853 does not have 4 as a divisor.\"",
+        "truth": true
+    },
+    {
+        "idx": 2861,
+        "question": "Is the following statement correct? \"If we divide 66093237538 by 5, the remainder is not 0.\"",
+        "truth": true
+    },
+    {
+        "idx": 2862,
+        "question": "Is it true that \"The number 28 is divisible by 4.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2863,
+        "question": "There exists an integer k such that 2 times k is 6. Do you think this statement is true?",
+        "truth": true
+    },
+    {
+        "idx": 2864,
+        "question": "Do you think it is true that \"The number 24 does not have 3 as a divisor.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2865,
+        "question": "Is the following statement correct? \"For any integer k, 10 divided by 3 is not equal to k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2866,
+        "question": "Does there not exist an integer t such that 918517273759 = 3 * t?",
+        "truth": true
+    },
+    {
+        "idx": 2867,
+        "question": "For any integer k, 2 times k is not equal to 1810949. Is this statement correct?",
+        "truth": true
+    },
+    {
+        "idx": 2868,
+        "question": "For any integer k, 49 is not equal to 5 * k. Is this statement true?",
+        "truth": true
+    },
+    {
+        "idx": 2869,
+        "question": "Is it correct that \"The number 1264024407 is divisible by 2.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2870,
+        "question": "Is it correct that \"There does not exist an integer k such that 9684336892 = 4 * k.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2871,
+        "question": "Does there exist an integer k such that 70531482 divided by 5 is k?",
+        "truth": false
+    },
+    {
+        "idx": 2872,
+        "question": "Do you think it is true that \"For any integer k, 70901851366 is not equal to 2 * k.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2873,
+        "question": "Does there exist an integer t such that 68876874931 = 4 * t?",
+        "truth": false
+    },
+    {
+        "idx": 2874,
+        "question": "Is it true that \"The number 10 is divisible by 3.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2875,
+        "question": "Is the number 5 not a divisor of 23180?",
+        "truth": false
+    },
+    {
+        "idx": 2876,
+        "question": "Do you think it is correct that \"The number 671602358228 does not have 3 as a divisor.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2877,
+        "question": "Is 2 not a divisor of 33618?",
+        "truth": false
+    },
+    {
+        "idx": 2878,
+        "question": "Is the following statement true? \"The number 6887666005 does not have 4 as a factor.\"",
+        "truth": true
+    },
+    {
+        "idx": 2879,
+        "question": "Does there not exist an integer k such that 4 times k is 229020986233?",
+        "truth": true
+    },
+    {
+        "idx": 2880,
+        "question": "Is it correct that \"If we divide 882 by 3, the remainder is 0.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2881,
+        "question": "If we divide 7291184988 by 2, is the remainder not 0?",
+        "truth": false
+    },
+    {
+        "idx": 2882,
+        "question": "Is the following statement correct? \"For any integer k, 5 times k is not equal to 158165.\"",
+        "truth": false
+    },
+    {
+        "idx": 2883,
+        "question": "The number 2860602 has 5 as a factor. Do you think this statement is correct?",
+        "truth": false
+    },
+    {
+        "idx": 2884,
+        "question": "Does the number 8892182332 not have 4 as a factor?",
+        "truth": false
+    },
+    {
+        "idx": 2885,
+        "question": "Do you think the following statement is correct? \"There exists an integer k such that 4 times k is 406726994617.\"",
+        "truth": false
+    },
+    {
+        "idx": 2886,
+        "question": "Is the following statement correct? \"There exists an integer k such that 79517794871 divided by 4 is k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2887,
+        "question": "Is the following statement true? \"The number 318095316 is a multiple of 3.\"",
+        "truth": true
+    },
+    {
+        "idx": 2888,
+        "question": "Is the number 5 a divisor of 75913952?",
+        "truth": false
+    },
+    {
+        "idx": 2889,
+        "question": "Is the following statement true? \"For any integer k, 91 divided by 6 is not equal to k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2890,
+        "question": "Is it true that \"The number 6997888722 is a multiple of 6.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2891,
+        "question": "If we divide 738455 by 3, the remainder is non-zero. Is this statement correct?",
+        "truth": true
+    },
+    {
+        "idx": 2892,
+        "question": "Is it correct that \"The number 7258740 does not have 5 as a divisor.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2893,
+        "question": "Does there not exist an integer t such that 6 divided by 6 is t?",
+        "truth": false
+    },
+    {
+        "idx": 2894,
+        "question": "Is the following statement true? \"If we divide 36 by 6, the remainder is 0.\"",
+        "truth": true
+    },
+    {
+        "idx": 2895,
+        "question": "There does not exist an integer k such that 6 times k is 6. Is this statement correct?",
+        "truth": false
+    },
+    {
+        "idx": 2896,
+        "question": "Do you think the following statement is true? \"The number 990359829542 is a multiple of 5.\"",
+        "truth": false
+    },
+    {
+        "idx": 2897,
+        "question": "There exists an integer k such that 84 = 6 * k. Is this statement correct?",
+        "truth": true
+    },
+    {
+        "idx": 2898,
+        "question": "Is the following statement true? \"For any integer k, 547216235020 divided by 5 is not equal to k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2899,
+        "question": "Do you think it is correct that \"For any integer k, 70065818032 is not equal to 4 * k.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2900,
+        "question": "There does not exist an integer k such that 77081 = 4 * k. Do you think this statement is correct?",
+        "truth": true
+    },
+    {
+        "idx": 2901,
+        "question": "There does not exist an integer k such that 73435407099 = 6 * k. Is this statement correct?",
+        "truth": true
+    },
+    {
+        "idx": 2902,
+        "question": "There exists an integer k such that 4 times k is 5. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2903,
+        "question": "Is it correct that \"The number 5 is a divisor of 9068507.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2904,
+        "question": "Is the number 4 a divisor of 170650?",
+        "truth": false
+    },
+    {
+        "idx": 2905,
+        "question": "The number 71687814312 is not a multiple of 2. Is this statement true?",
+        "truth": false
+    },
+    {
+        "idx": 2906,
+        "question": "Is the number 5 a factor of 64?",
+        "truth": false
+    },
+    {
+        "idx": 2907,
+        "question": "Does there not exist an integer k such that 6 times k is 2?",
+        "truth": true
+    },
+    {
+        "idx": 2908,
+        "question": "If we divide 1782028 by 4, the remainder is non-zero. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2909,
+        "question": "Is the following statement true? \"If we divide 5048336477 by 4, the remainder is non-zero.\"",
+        "truth": true
+    },
+    {
+        "idx": 2910,
+        "question": "Is the number 9175 a multiple of 6?",
+        "truth": false
+    },
+    {
+        "idx": 2911,
+        "question": "For any integer k, 5 times k is not equal to 225. Is this statement true?",
+        "truth": false
+    },
+    {
+        "idx": 2912,
+        "question": "Does there not exist an integer k such that 3 times k is 41181607?",
+        "truth": true
+    },
+    {
+        "idx": 2913,
+        "question": "Is the number 569 not divisible by 5?",
+        "truth": true
+    },
+    {
+        "idx": 2914,
+        "question": "Does there exist an integer k such that 3757402107 divided by 6 is k?",
+        "truth": false
+    },
+    {
+        "idx": 2915,
+        "question": "The number 120 does not have 2 as a factor. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2916,
+        "question": "Do you think it is true that \"The number 5 is a factor of 31.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2917,
+        "question": "Do you think the following statement is correct? \"The number 755105841682 is a multiple of 2.\"",
+        "truth": true
+    },
+    {
+        "idx": 2918,
+        "question": "Is 5 not a factor of 721272475535?",
+        "truth": false
+    },
+    {
+        "idx": 2919,
+        "question": "Is the following statement true? \"The number 6 is not a divisor of 33871470.\"",
+        "truth": false
+    },
+    {
+        "idx": 2920,
+        "question": "Do you think the following statement is true? \"There exists an integer k such that 5 times k is 62070423.\"",
+        "truth": false
+    },
+    {
+        "idx": 2921,
+        "question": "Does there not exist an integer t such that 6846821544 divided by 4 is t?",
+        "truth": false
+    },
+    {
+        "idx": 2922,
+        "question": "There does not exist an integer k such that 4 times k is 2505940. Is this statement correct?",
+        "truth": false
+    },
+    {
+        "idx": 2923,
+        "question": "Does there not exist an integer k such that 4 times k is 89731716?",
+        "truth": false
+    },
+    {
+        "idx": 2924,
+        "question": "Do you think the following statement is true? \"The number 6 is a factor of 4607376934.\"",
+        "truth": false
+    },
+    {
+        "idx": 2925,
+        "question": "Does there exist an integer t such that 3 times t is 6?",
+        "truth": true
+    },
+    {
+        "idx": 2926,
+        "question": "Is the number 47664289620 divisible by 4?",
+        "truth": true
+    },
+    {
+        "idx": 2927,
+        "question": "Is it correct that \"There does not exist an integer k such that 4 times k is 70565369.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2928,
+        "question": "Is it correct that \"The number 6 is not a factor of 204948.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2929,
+        "question": "Do you think it is correct that \"The number 92733198 has 3 as a divisor.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2930,
+        "question": "Is the following statement true? \"There does not exist an integer k such that 20 = 4 * k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2931,
+        "question": "Is 75571908456 a multiple of 3?",
+        "truth": true
+    },
+    {
+        "idx": 2932,
+        "question": "Is the number 19315 not a multiple of 2?",
+        "truth": true
+    },
+    {
+        "idx": 2933,
+        "question": "Does the number 40669349057 have 3 as a divisor?",
+        "truth": false
+    },
+    {
+        "idx": 2934,
+        "question": "Is 6013 not divisible by 4?",
+        "truth": true
+    },
+    {
+        "idx": 2935,
+        "question": "Do you think it is correct that \"The number 210 does not have 2 as a divisor.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2936,
+        "question": "Is 3 not a divisor of 360?",
+        "truth": false
+    },
+    {
+        "idx": 2937,
+        "question": "Do you think it is correct that \"For any integer k, 792 is not equal to 4 * k.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2938,
+        "question": "Is the following statement true? \"For any integer k, 238584602771 is not equal to 3 * k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2939,
+        "question": "Do you think it is correct that \"There exists an integer k such that 4 times k is 449.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2940,
+        "question": "For any integer k, 6 divided by 6 is not equal to k. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2941,
+        "question": "There does not exist an integer k such that 4 = 3 * k. Do you think this statement is true?",
+        "truth": true
+    },
+    {
+        "idx": 2942,
+        "question": "Does the number 5671296 not have 4 as a divisor?",
+        "truth": false
+    },
+    {
+        "idx": 2943,
+        "question": "Is it true that \"For any integer k, 9492 divided by 6 is not equal to k.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2944,
+        "question": "Is the following statement correct? \"If we divide 643124 by 2, the remainder is 0.\"",
+        "truth": true
+    },
+    {
+        "idx": 2945,
+        "question": "Is 509118 divisible by 3?",
+        "truth": true
+    },
+    {
+        "idx": 2946,
+        "question": "Does there not exist an integer t such that 810648511 divided by 2 is t?",
+        "truth": true
+    },
+    {
+        "idx": 2947,
+        "question": "Is it correct that \"The number 184 has 6 as a factor.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2948,
+        "question": "Is it true that \"If we divide 84092548 by 2, the remainder is non-zero.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2949,
+        "question": "The number 72 is not a multiple of 4. Is this statement true?",
+        "truth": false
+    },
+    {
+        "idx": 2950,
+        "question": "Is it correct that \"There exists an integer k such that 5 times k is 537111442.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2951,
+        "question": "The number 4957302710 is a multiple of 4. Is this statement true?",
+        "truth": false
+    },
+    {
+        "idx": 2952,
+        "question": "Is it true that \"The number 6 is a divisor of 677753623.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2953,
+        "question": "The number 6 is a factor of 296699. Is this statement true?",
+        "truth": false
+    },
+    {
+        "idx": 2954,
+        "question": "Is it true that \"The number 4 is a factor of 670646205.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2955,
+        "question": "Does there not exist an integer k such that 235616971 = 4 * k?",
+        "truth": true
+    },
+    {
+        "idx": 2956,
+        "question": "Do you think it is true that \"The number 2 is a divisor of 281709211.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2957,
+        "question": "Do you think it is true that \"The number 6 is not a divisor of 88807992.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2958,
+        "question": "Does there exist an integer k such that 3697 = 4 * k?",
+        "truth": false
+    },
+    {
+        "idx": 2959,
+        "question": "Is it correct that \"There does not exist an integer k such that 7316 divided by 6 is k.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2960,
+        "question": "Is 4 not a factor of 897072?",
+        "truth": false
+    },
+    {
+        "idx": 2961,
+        "question": "Do you think it is true that \"There exists an integer k such that 1284 divided by 6 is k.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2962,
+        "question": "Do you think it is true that \"For any integer k, 485 divided by 5 is not equal to k.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2963,
+        "question": "Is it correct that \"The number 6 does not have 6 as a factor.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2964,
+        "question": "Is the following statement correct? \"The number 60 does not have 3 as a factor.\"",
+        "truth": false
+    },
+    {
+        "idx": 2965,
+        "question": "For any integer k, 5366901558 divided by 3 is not equal to k. Is this statement true?",
+        "truth": false
+    },
+    {
+        "idx": 2966,
+        "question": "Do you think the following statement is correct? \"For any integer k, 3 times k is not equal to 9169955.\"",
+        "truth": true
+    },
+    {
+        "idx": 2967,
+        "question": "There does not exist an integer k such that 3178806 = 6 * k. Do you think this statement is true?",
+        "truth": false
+    },
+    {
+        "idx": 2968,
+        "question": "Is 2 not a divisor of 55993817?",
+        "truth": true
+    },
+    {
+        "idx": 2969,
+        "question": "Can 3 be multiplied to obtain 27600?",
+        "truth": true
+    },
+    {
+        "idx": 2970,
+        "question": "Does there exist an integer k such that 4798505968 divided by 4 is k?",
+        "truth": true
+    },
+    {
+        "idx": 2971,
+        "question": "Does there exist an integer k such that 420274117 divided by 2 is k?",
+        "truth": false
+    },
+    {
+        "idx": 2972,
+        "question": "Does there not exist an integer t such that 881905871346 = 3 * t?",
+        "truth": false
+    },
+    {
+        "idx": 2973,
+        "question": "Is 604689 divisible by 4?",
+        "truth": false
+    },
+    {
+        "idx": 2974,
+        "question": "Is it correct that \"For any integer k, 5 times k is not equal to 88054445.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2975,
+        "question": "Is the number 3 a divisor of 56530103745?",
+        "truth": true
+    },
+    {
+        "idx": 2976,
+        "question": "Is the number 5 not a factor of 910990?",
+        "truth": false
+    },
+    {
+        "idx": 2977,
+        "question": "Is it true that \"The number 10 is not divisible by 2.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2978,
+        "question": "Can 1124 be expressed as a multiple of 2?",
+        "truth": true
+    },
+    {
+        "idx": 2979,
+        "question": "Do you think the following statement is true? \"There does not exist an integer k such that 3463897 = 5 * k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2980,
+        "question": "Is it correct that \"The number 394275211406 is not a multiple of 3.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2981,
+        "question": "There does not exist an integer k such that 54646140 divided by 5 is k. Do you think this statement is correct?",
+        "truth": false
+    },
+    {
+        "idx": 2982,
+        "question": "If we divide 296043875720 by 4, is the remainder 0?",
+        "truth": true
+    },
+    {
+        "idx": 2983,
+        "question": "Is 24 not a multiple of 4?",
+        "truth": false
+    },
+    {
+        "idx": 2984,
+        "question": "Is it true that \"The number 5063120 is divisible by 4.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2985,
+        "question": "Do you think it is correct that \"The number 5 is a factor of 7.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2986,
+        "question": "Is the number 3 a divisor of 99560?",
+        "truth": false
+    },
+    {
+        "idx": 2987,
+        "question": "For any integer k, 67 divided by 2 is not equal to k. Is this statement true?",
+        "truth": true
+    },
+    {
+        "idx": 2988,
+        "question": "Do you think the following statement is correct? \"For any integer k, 36000 is not equal to 6 * k.\"",
+        "truth": false
+    },
+    {
+        "idx": 2989,
+        "question": "Is 3851 not a multiple of 6?",
+        "truth": true
+    },
+    {
+        "idx": 2990,
+        "question": "Is it correct that \"The number 2 has 2 as a factor.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2991,
+        "question": "Is the following statement correct? \"For any integer k, 845199 divided by 4 is not equal to k.\"",
+        "truth": true
+    },
+    {
+        "idx": 2992,
+        "question": "Is it true that \"If we divide 25 by 2, the remainder is not 0.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2993,
+        "question": "Is the number 2 a divisor of 377719499978?",
+        "truth": true
+    },
+    {
+        "idx": 2994,
+        "question": "The number 608564143 is a multiple of 6. Is this statement true?",
+        "truth": false
+    },
+    {
+        "idx": 2995,
+        "question": "Do you think it is correct that \"The number 41 does not have 3 as a factor.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2996,
+        "question": "Does there not exist an integer k such that 4 times k is 6017539?",
+        "truth": true
+    },
+    {
+        "idx": 2997,
+        "question": "Is it true that \"If we divide 70080 by 2, the remainder is not 0.\"?",
+        "truth": false
+    },
+    {
+        "idx": 2998,
+        "question": "Is it true that \"The number 48828521427 is not divisible by 4.\"?",
+        "truth": true
+    },
+    {
+        "idx": 2999,
+        "question": "Is 31387 not divisible by 5?",
+        "truth": true
+    }
+]

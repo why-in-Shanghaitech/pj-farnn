@@ -1,0 +1,3 @@
+# This is the solution file for test_cases/q3/04-hacking.test.
+# The hash of the result of evaluating the test must equal the below.
+result: "339683bab63ad29605ff46771717db48"

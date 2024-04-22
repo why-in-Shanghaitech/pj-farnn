@@ -1,0 +1,34 @@
+class: "ColdStartTest"
+success: "Test passed!"
+failure: "The initialized FARNN should have the same prediction as the RE system."
+timeout: "30"
+
+
+# This is a real-world task
+task: "'atis'"
+vocab: "['i', 'want', 'to', 'fly', 'from', 'boston', 'at', '838', 'am', 'and', 'arrive', 'in', 'denver', '1110', 'the', 'morning', 'what', 'flights', 'are', 'available', 'pittsburgh', 'baltimore', 'on', 'thursday', 'is', 'arrival', 'time', 'san', 'francisco', 'for', '755', 'flight', 'leaving', 'washington', 'cheapest', 'airfare', 'tacoma', 'orlando', 'round', 'trip', 'fares', 'philadelphia', 'under', '1000', 'dollars', 'need', 'a', 'tomorrow', 'columbus', 'minneapolis', 'kind', 'of', 'aircraft', 'used', 'cleveland', 'dallas', 'show', 'me', 'los', 'angeles', 'all', 'ground', 'transportation', 'fare', 'cost', 'costs', 'class', 'ticket', 'how', 'much', 'price', 'prices', 'between', 'go', 'get', 'airplane', 'plane', 'planes', 'airplanes', 'schedule', 'schedules', 'departure', 'times']"
+merges: "None"
+
+# Hyper-parameters
+hyperparams: "{'K': 32, 'r': 45, 'h1': 50, 'h2': 50}"
+
+# We loads the regular expressions from file
+regexps: "'atis'"
+
+# Rule is the regex
+rules: "['L0', 'L1', 'L2', 'L3']"
+labels: "['airfare', 'flight', 'aircraft', 'flight_time']"
+
+# The input sentences for testing
+sentences: """
+[
+    "i want to fly from boston at 838 am and arrive in denver at 1110 in the morning",
+    "what flights are available from pittsburgh to baltimore on thursday morning",
+    "what is the arrival time in san francisco for the 755 am flight leaving washington",
+    "cheapest airfare from tacoma to orlando",
+    "round trip fares from pittsburgh to philadelphia under 1000 dollars",
+    "i need a flight tomorrow from columbus to minneapolis",
+    "what kind of aircraft is used on a flight from cleveland to dallas",
+    "show me the flights from pittsburgh to los angeles on thursday"
+]
+"""

@@ -1,0 +1,46 @@
+class: "ColdStartTest"
+success: "Test passed!"
+failure: "The initialized FARNN should have the same prediction as the RE system."
+timeout: "10"
+
+
+# This is a dummy task to test the basic functionality
+task: "'dummy'"
+vocab: "['Ġ', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'Ġ0', 'Ġ1', 'Ġ2', 'Ġ3', 'Ġ4', 'Ġ5', 'Ġ6', 'Ġ7', 'Ġ8', 'Ġ9']"
+merges: "[('Ġ', '0'), ('Ġ', '1'), ('Ġ', '2'), ('Ġ', '3'), ('Ġ', '4'), ('Ġ', '5'), ('Ġ', '6'), ('Ġ', '7'), ('Ġ', '8'), ('Ġ', '9')]"
+
+# Hyper-parameters
+hyperparams: "{'K': 128, 'r': 32, 'h1': 5, 'h2': 3}"
+
+# Some regular expressions
+regexps: """
+{
+    'F2': '0 . *',
+    'T2': '. * 1',
+    'C0': '. Ġ1 + 1',
+    'D1': '. . . .',
+}
+"""
+
+# Rules for each label
+rules: """
+[
+    'F2 & T2',
+    '~F2 | C0',
+    '( D1 | ~T2 ) & ( C0 | ~F2 )'
+]
+"""
+labels: "['L1', 'L2', 'L3']"
+
+# The input sentences for testing
+sentences: """
+[
+    "0 1 11",
+    "0 1 13",
+    "1 1 11",
+    "1231",
+    "10",
+    "121",
+    "01"
+]
+"""

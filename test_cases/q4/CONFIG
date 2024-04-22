@@ -1,0 +1,5 @@
+name: "Training with a Budget"
+depends: "q1"
+max_points: "3"
+timeout: "300"
+class: "PassAllTestsQuestion"

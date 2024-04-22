@@ -1,0 +1,6 @@
+class: "HackTest"
+success: "Test passed!"
+failure: "Please do not change the code in forward_unbatched"
+timeout: "5"
+
+test: "models.FARNN.forward_unbatched"

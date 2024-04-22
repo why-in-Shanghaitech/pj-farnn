@@ -1,0 +1,3 @@
+# This is the solution file for test_cases/q3/01-dummy.test.
+# The expected matching result.
+results: "[[True, True, True], [False, False, False], [False, True, True], [False, True, True], [False, True, True], [False, True, False], [True, False, False]]"

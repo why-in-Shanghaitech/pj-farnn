@@ -1,0 +1,5 @@
+name: "The Cold Start"
+depends: ""
+max_points: "3"
+timeout: "180"
+class: "PassAllTestsQuestion"

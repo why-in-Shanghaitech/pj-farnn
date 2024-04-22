@@ -1,0 +1,6 @@
+class: "RegexLengthTest"
+success: "Test passed!"
+failure: "To pass this test, the regular expression should have length no longer than the threshold."
+timeout: "20"
+
+threshold: "1000000"

@@ -1,0 +1,15 @@
+class: "VocabTest"
+success: "Test passed!"
+failure: "The tokenizer must not merge the numbers."
+timeout: "5"
+
+# The well-trained vocab and merges
+vocab: "{'Ġ': 0, '1': 1, '2': 2, 'Ġ1': 3, 'Ġ2': 4, '12': 5, 'Ġ12': 6}"
+merges: "[('Ġ', '1'), ('Ġ', '2'), ('1', '2'), ('Ġ1', '2')]"
+
+# The sentences to tokenize
+sentences: """
+[
+    "111212 1212121 2112 2212"
+]
+"""

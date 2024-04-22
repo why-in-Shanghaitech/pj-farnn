@@ -1,0 +1,14 @@
+class: "HiddenTest"
+success: "Test passed!"
+failure: "The hash of the results does not match the correct answer."
+timeout: "10"
+
+preamble: """
+import tokenizers
+vocab, merges = tokenizers.models.BPE.read_file("data/vocab.json", "data/merges.txt")
+tokenizer.clean_vocab(vocab, merges)
+vocab_items = sorted(vocab.items(), key=lambda x: x[1])
+"""
+
+# The sentences to tokenize
+test: "(vocab_items, merges)"

@@ -1,0 +1,5 @@
+name: "The BPE Tokenizer"
+depends: ""
+max_points: "2"
+timeout: "20"
+class: "PassAllTestsQuestion"
