@@ -1,7 +1,7 @@
 # CS274A Natural Language Processing [Season] [Year] Project
 
 <div align="center">
-<img width="450" src="https://github.com/why-in-Shanghaitech/pj-farnn/assets/43395692/0a8c9f87-825b-411e-b65a-05e27817bf7e" />
+<img width="450" src="https://github.com/why-in-Shanghaitech/pj-farnn/assets/43395692/86981d69-6e01-4333-99ca-70084d307aed" />
 <p>
   A regular expression system
   <br>
@@ -20,7 +20,7 @@ This project is designed based on the paper [Cold-start and Interpretability: Tu
 <details>
 <summary>The Map of AI Approaches</summary>
 <div align="center">
-<img width="400" src="https://github.com/why-in-Shanghaitech/pj-farnn/assets/43395692/84e51130-dfa2-4c2c-a041-30b4ab8e32a2" />
+<img width="400" src="https://github.com/why-in-Shanghaitech/pj-farnn/assets/43395692/f62df3cf-49a4-4fd0-b315-da198f0d4cc7" />
 </div>
 </details>
 
