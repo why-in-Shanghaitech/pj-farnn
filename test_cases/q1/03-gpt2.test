@@ -7,7 +7,9 @@ preamble: """
 import tokenizers
 vocab, merges = tokenizers.models.BPE.read_file("data/vocab.json", "data/merges.txt")
 tokenizer.clean_vocab(vocab, merges)
-vocab_items = sorted(vocab.items(), key=lambda x: x[1])
+keys = sorted(vocab.keys())
+values = sorted(vocab.values())
+vocab_items = (keys, values)
 """
 
 # The sentences to tokenize
