@@ -243,4 +243,4 @@ In order to submit your project, run
 python submit.py
 ```
 
-It will generate a tar file farnn.tar in your project folder. Submit this file to Autolab.
+It will generate a tar file farnn.tar in your project folder. Submit this file to [Autolab](http://10.19.136.45/). You may submit unlimited times before the deadline. The final score will be the last score you get in all your submissions. The deadline is 23:59 on June 8th, 2024. Late submissions will not be accepted.
