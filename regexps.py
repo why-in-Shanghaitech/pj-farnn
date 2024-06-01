@@ -114,7 +114,7 @@ def multiple_of_n(n: int = 2, special_char: bool = True) -> List[str]:
     Args:
         n (:obj:`int`):
             A base number. The generated regular expression should accept all its multipliers
-            including 0 and reject other numbers. 2 <= n <= 7.
+            including 0 and reject other numbers. 2 <= n <= 6.
 
         special_char (:obj:`bool`):
             True if the a special character `Ġ` is added in front of the first input token,
